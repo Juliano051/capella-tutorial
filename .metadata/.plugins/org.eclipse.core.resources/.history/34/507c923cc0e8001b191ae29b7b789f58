@@ -23,7 +23,7 @@
     </ownedViews>
     <ownedViews xmi:type="viewpoint:DView" uid="_ov60wOi4EeuwU6GwoORlNw">
       <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/oa.odesign#//@ownedViewpoints[name='Operational%20Analysis']"/>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_tpBxYOi7EeuwU6GwoORlNw" name="[OEBD] Operational Entities and Actors" repPath="#_toYRIOi7EeuwU6GwoORlNw" changeId="d726d355-37b7-4625-b86f-533d7b371292">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_tpBxYOi7EeuwU6GwoORlNw" name="[OEBD] Operational Entities and Actors" repPath="#_toYRIOi7EeuwU6GwoORlNw" changeId="96e1de3b-2da6-4f2b-ad9d-b4026d7969c8">
         <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/oa.odesign#//@ownedViewpoints[name='Operational%20Analysis']/@ownedRepresentations[name='Operational%20Entity%20Breakdown']"/>
         <target xmi:type="org.polarsys.capella.core.data.oa:EntityPkg" href="ToyCatapult.capella#2a16cd7f-b8e1-4181-9054-d491642ea3ae"/>
       </ownedRepresentationDescriptors>
@@ -56,7 +56,7 @@
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2cH-sui7EeuwU6GwoORlNw"/>
           </children>
           <styles xmi:type="notation:ShapeStyle" xmi:id="_2cGJgei7EeuwU6GwoORlNw" fontName="Segoe UI" fontHeight="8"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2cGJgui7EeuwU6GwoORlNw" x="90" y="140" width="70" height="61"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2cGJgui7EeuwU6GwoORlNw" x="180" y="70" width="70" height="61"/>
         </children>
         <children xmi:type="notation:Node" xmi:id="_IMu5kOi8EeuwU6GwoORlNw" type="2001" element="_IMZiYOi8EeuwU6GwoORlNw">
           <children xmi:type="notation:Node" xmi:id="_IMvgoOi8EeuwU6GwoORlNw" type="5002">
